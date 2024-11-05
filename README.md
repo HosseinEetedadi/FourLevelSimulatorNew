@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # simulator-2021-nca
 
 ## Introduction 
@@ -37,3 +38,7 @@ The code is written with modularity in mind. The filename convention is the foll
 - `service_*.py` - implements the services used during the simulations
 - `plot_*.py` - plot results
 - `test_*.py` - scripts for testing functions used in the simulator
+=======
+# djshop
+This project is related to Django and other tools. 
+>>>>>>> 51b625ec087a25998f6f7a2450de8d8c3133665f
